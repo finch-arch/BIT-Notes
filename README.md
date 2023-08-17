@@ -1,8 +1,5 @@
 
 <div align="center">
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/mayukhpankaj/BIT-Clubs/main/public/logo.png?raw=true" alt="BIT clubs" width="100" >
-  </a>
   <h1 align="center">
     BIT Clubs
   </h1>
