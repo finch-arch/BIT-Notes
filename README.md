@@ -1,42 +1,31 @@
 
 <div align="center">
   <h1 align="center">
-    BIT Clubs
+    BIT Notes
   </h1>
-  <h3 align="center">
-Everyone is here !   
-  </h3>
+  
 <h4 align="center">
-  App for University's clubs and events
+  App for saving Notes
 </h4>
 </div>
 
 
-![Copy of glow](https://user-images.githubusercontent.com/40158577/150653620-6d077bab-df4f-42d0-902d-6603dbac7f7f.png)
+
 
 
 
 
 ## Domain
-**App development**
+**Web development**
 
  ![visitors](https://visitor-badge.glitch.me/badge?page_id=BIT-Clubs) 
 
 ## Techstack
-- **React - Native**
-- **React - Navigation**
+- **React - JS**
 -  **NodeJS**
--  **Firebase**
-    *  Authentication
-    * Firestore ( NoSQL db )
-    * Cloud Storage ( for storing images )
+-  **MongoDb**
 
-## Idea 
-
-![Untitled (72 x 20 in) (1)](https://user-images.githubusercontent.com/40158577/148661330-509cb506-2331-4e22-a70a-5eff3739101b.png)
-
-
-As a fresher and due to online mode , one of the challenges  was knowing about the clubs and events being organised around the institute. Also we rely a lot on whatsapp groups to share event details, which is unorganised can become  spammy, missing important updates.
+There is always 
 So to tackle all of this, we have developed BIT Clubs !
   
 
