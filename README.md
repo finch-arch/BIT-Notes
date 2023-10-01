@@ -29,10 +29,10 @@ A platform for students of BIT, where one can save Notes.
     - Authtoken is used for safe and secure Authorization
    
 - **Dynamic Content**
-    - Instead of relying on static content, our app fetches , cache and renders content from database.
+    - Instead of relying on static content, the app fetches, caches and renders content from the database.
     
 - **Posts CRUD**
-    - Admins can create, update, delete event posts.
+    - Admins can create, update, and delete event posts.
 
 
 #### Web 
@@ -46,7 +46,7 @@ Web Tour
 ## How to run
 
 
-first install MongoDB
+first, install MongoDB
 
 Then install nodeJS and Node modules
 
